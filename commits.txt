@@ -1,0 +1,11 @@
+commit 8cb2774e6a4e3690fea6d1c6f30aa33b90ba6736
+Author: Rosa <rcolella@gysmo.co>
+Date:   Tue Aug 14 14:31:53 2018 -0400
+
+    se agrego parrafo prueba de git
+
+commit 9abc334816a9df4c868ed6f046c8238346268eb9
+Author: Rosa <rcolella@gysmo.co>
+Date:   Tue Aug 14 14:28:32 2018 -0400
+
+    commit inicial para agregar html y css
